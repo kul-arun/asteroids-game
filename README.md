@@ -2,7 +2,7 @@
 
 A simple implementation of the classic Asteroids game in C++ using the Simple and Fast Multimedia Library (SFML).
 
-![](demo/demo-1.gif)
+<video width="600" height="414" loop src="demo/demo-1.mp4"> video </video>
 
 ## Requirements
 * **GCC**

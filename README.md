@@ -33,4 +33,4 @@ This will create an executible file called `asteroids`.
 ```
 The gameplay is shown in the `demo` directory.
 
-**NOTE** : The sources of the images and the font used in this project are mentioned in `source.txt` file.
+**NOTE** : The sources of the images and the font used in this project are mentioned in `source.md` file.

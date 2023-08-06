@@ -2,9 +2,14 @@
 
 A simple implementation of the classic Asteroids game in C++ using the Simple and Fast Multimedia Library (SFML).
 
-<video autoplay loop muted playsinline width="600" height="414">
-    <source src="https://raw.githubusercontent.com/kul-arun/asteroids-game/main/demo/demo-1.mp4" type="video/mp4">
-</video>
+![](demo/demo-1.gif)
+
+## Game Controls
+
+* `W` or `UP`: Forward thrust.
+* `A` or `LEFT` : Anti-clockwise rotation.
+* `D` or `RIGHT` : Clockwise rotation.
+* `ENTER` or `SPACE` : Fire projectile.
 
 ## Requirements
 * **GCC**

@@ -2,8 +2,8 @@
 
 A simple implementation of the classic Asteroids game in C++ using the Simple and Fast Multimedia Library (SFML).
 
-<video autoplay loop muted playsinline width="600" height="414"
-src="https://raw.githubusercontent.com/kul-arun/asteroids-game/main/demo/demo-1.mp4">
+<video autoplay loop muted playsinline width="600" height="414">
+    <source src="https://raw.githubusercontent.com/kul-arun/asteroids-game/main/demo/demo-1.mp4" type="video/mp4">
 </video>
 
 ## Requirements
